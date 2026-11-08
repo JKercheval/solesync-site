@@ -8,8 +8,8 @@ for App Store submission.
 
 ## Pages
 
-- Privacy Policy: https://jkercheval.github.io/SoleSync-site/privacy.html
-- Support: https://jkercheval.github.io/SoleSync-site/support.html
+- Privacy Policy: https://jkercheval.github.io/solesync-site/privacy.html
+- Support: https://jkercheval.github.io/solesync-site/support.html
 
 ## Updating the privacy policy
 
